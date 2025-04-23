@@ -123,7 +123,6 @@ export function CaffeineChart({
 
   return (
     <Flex direction="column" gap="3" className={className} style={{ minHeight: '300px' }}>
-      <Text size="4" weight="bold">Caffeination Curve</Text>
       {hasData ? (
         <>
           <ResponsiveContainer width="100%" height={300}>
