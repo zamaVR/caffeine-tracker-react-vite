@@ -12,7 +12,7 @@ export function Footer() {
         <Text className="text-sm text-[#8b7355]">
           Follow me on{' '}
           <a
-            href="https://linkedin.com"
+            href="https://linkedin.com/in/jesse-zamazanuk/"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:underline"
@@ -53,7 +53,7 @@ export function Footer() {
         <Dialog.Content style={{ maxWidth: 450 }}>
           <Dialog.Title>Terms of Use</Dialog.Title>
           <Dialog.Description size="2">
-            Terms of use content goes here...
+            I will be updating terms of use soon... for now, behave yourself.
           </Dialog.Description>
         </Dialog.Content>
       </Dialog.Root>
@@ -63,7 +63,7 @@ export function Footer() {
         <Dialog.Content style={{ maxWidth: 450 }}>
           <Dialog.Title>Privacy Policy</Dialog.Title>
           <Dialog.Description size="2">
-            Privacy policy content goes here...
+          I will be updating the privacy policy soon... for now, behave yourself.
           </Dialog.Description>
         </Dialog.Content>
       </Dialog.Root>
@@ -73,7 +73,7 @@ export function Footer() {
         <Dialog.Content style={{ maxWidth: 450 }}>
           <Dialog.Title>Frequently Asked Questions</Dialog.Title>
           <Dialog.Description size="2">
-            FAQs content goes here...
+            I will be updating the FAQs soon... for now, let your imagination run wild.
           </Dialog.Description>
         </Dialog.Content>
       </Dialog.Root>
