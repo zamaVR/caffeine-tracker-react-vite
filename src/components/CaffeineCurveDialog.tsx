@@ -3,7 +3,6 @@ import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, ReferenceLine, R
 import { timeToDecimal } from '@/utils/format';
 import { getTotalCaffeineConcentration } from '@/utils/getCaffeineConcentration';
 import type { Drink as AppDrink } from '@/types';
-import React from 'react';
 
 interface DataPoint {
   time: number;
